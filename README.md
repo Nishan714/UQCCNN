@@ -1,4 +1,4 @@
-# UQCCNN: Uncertainty-Aware Quantum Convolutional Neural Network
+# UQCCNN: A Unified Quantum–Classical Convolutional Neural Network for Binary and Multi-Class Brain Tumor Classification
 
 ## Overview
 This repository contains the implementation of the UQCCNN model.
@@ -16,10 +16,12 @@ The corresponding research paper has been submitted to a journal and is currentl
 - Quantum machine learning concepts
 
 ## Status
-Paper submitted (under review)
+The corresponding paper is currently under review.
+Citation details will be updated after acceptance.
+
 
 ## Note
-Due to academic and confidentiality constraints, only core implementation is shared.
+Due to academic and confidentiality constraints, only the core implementation is shared.
 
 ## Author
 Nishan Mitra
