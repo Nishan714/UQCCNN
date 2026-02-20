@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 # UQCCNN: Unified Quantum–Classical CNN for Brain Tumor Classification
 
 Hybrid deep learning framework integrating an 8-qubit Variational Quantum Circuit (VQC) within a classical CNN backbone for binary and multi-class brain tumor classification from MRI images.
 
 ---
+=======
+# UQCCNN: A Unified Quantum–Classical Convolutional Neural Network for Binary and Multi-Class Brain Tumor Classification
+>>>>>>> 341df28504c1635b23140610583b0141be72a7b5
 
 ## Overview
 
@@ -161,7 +165,16 @@ A Unified Quantum–Classical Convolutional Neural Network for Binary and Multi-
 (Under IEEE Conference Resubmission)
 
 ## Status
+<<<<<<< HEAD
 
 Research manuscript under revision for IEEE conference submission.
 
+=======
+The corresponding paper is currently under review.
+Citation details will be updated after acceptance.
+
+
+## Note
+Due to academic and confidentiality constraints, only the core implementation is shared.
+>>>>>>> 341df28504c1635b23140610583b0141be72a7b5
 
