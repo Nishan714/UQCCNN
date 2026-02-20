@@ -1,5 +1,7 @@
+torch
+torchvision
+pennylane
 numpy
-pandas
 scikit-learn
+tqdm
 matplotlib
-tensorflow
